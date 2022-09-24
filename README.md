@@ -1,5 +1,7 @@
 # restaurant-management
 
+## Start from MainRestaurant inside src to understand the code
+
 ## For the static input, the output is:
 
 ### Menu items
